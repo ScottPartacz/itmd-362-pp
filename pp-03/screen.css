@@ -173,6 +173,41 @@ textarea {
 
 /* ===== BASE STYLES ===== */
 
+html {
+  font-size: 1.125em; /* 18 px */
+  line-height: 1.222em; /* 22 px */
+}
+
+h1 {
+  font-size: 1.28em; /* 23.04 px*/
+  line-height: 1.536em; /* 27.648 px*/
+}
+
+p {
+  padding-bottom: 1.222em; /* 22px /18px */
+}
+
+input[type="email"] {
+  padding-bottom: .611em;
+  border: 0.2em;
+  border-radius: 0.5em;
+}
+input[type="telphone"] {
+  padding-bottom: .611em;
+  border: 0.2em;
+  border-radius: 0.5em;
+}
+
+input[type="date"] {
+  padding-bottom: .611em;
+  border: 0.2em;
+  border-radius: 0.5em;
+}
+
+input[type="submit"] {
+  max-width: 50%;
+  margin-left: 4em; 
+}
 
 /* ===== LAYOUT STYLES ===== */
 
