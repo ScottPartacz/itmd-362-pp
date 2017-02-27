@@ -192,19 +192,46 @@ img, audio, video {
 */
 
 html {
+  font-family: Arial,sans-serif;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
-  text-rendering: optimizeLegibility;
 }
 
 label {
   display: block;
+   
 }
-
+#age {
+  padding-left: 1.182em;
+}
+input {
+  background-color: #b9bcbd;
+  color: black;
+  height: 2.364em;
+  width: 70%;
+  padding: .591em;
+}
+h1 {
+  font-size: 1.875em;
+  line-height: 2.25em;
+}
+h1,p {
+  padding-bottom: .591em;
+}
+input[type="checkbox"] {
+  width: auto;
+  height: auto;
+  float: left;
+}
+input[type="submit"] {
+  width: auto;
+  height: auto;
+  display: block;
+}
 /* ===== LAYOUT STYLES ====== */
-
 /* ===== MODULAR STYLES ===== */
-
+form li {
+  padding-bottom: 1.182em;
+}
 /* ===== STATE STYLES ======= */
-
