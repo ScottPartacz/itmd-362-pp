@@ -12,11 +12,11 @@ A. Photograph of the object (place in the pp-09/ directory and commit).
 
 B. Emotional design levels of your object:
 
-* Visceral:
+* Visceral: looking at this simple pencil your mind becomes enthralled with the endless possiblities that come from it.
 
-* Behavioral:
+* Behavioral: Using this pencil is easy yet satisfing. The pencil came be used for hours and yet you never get tired.
 
-* Reflective:
+* Reflective: After using the pencil you feel strength and power. You have created somehting from this pencil. without the pencil youstart to feel not whole.
 
 C.  Emotional design qualities of the object that might be useful for Project 2 MyIIT redesign:
 
