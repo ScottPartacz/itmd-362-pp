@@ -14,7 +14,7 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
 
-I really enjoy this website, however their login box on the desktop/laptop view is way to small. So that it what i would like to change.
+I really enjoy this website, however their login box on the desktop/laptop view is way to small. So that is what I would like to change.
 
 Mobile: There mobile layout is great in my opinon only downside is maybe they need to increase the szie of the loin button. but thats very minor.
 
